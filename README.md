@@ -1,8 +1,8 @@
-# Hey! 🤖
+## Beep boop! 🤖
 
 ![Glider ☠️](https://i.imgur.com/NOpTI0G.gif)
 
-I'm **rE-Bo0t.bx1** :shipit: The founder && author of InfoSec Blog [Br🤖kenB🤖tnet.com](https://brokenbotnet.com/)
+I'm **rE-Bo0t.bx1** :shipit: The founder && author of InfoSec Blog **[Br🤖kenB🤖tnet.com](https://brokenbotnet.com/)**
 
 Actually, I have nothing much to say here.
 Anyways, :trollface: lately, I'm kinda 👇🙃
